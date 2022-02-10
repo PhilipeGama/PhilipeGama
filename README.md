@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm a _JAVA_ Full-Stack Web Developer (Java, Spring Boot, ReactJS).<br/>
+<!-- I'm a _JAVA_ Full-Stack Web Developer (Java, Spring Boot, ReactJS).<br/> -->
 
 Here on my GitHub profile you can see all my projects. Also I like to help new Dev's to get inside this world and learning about software development.
 
